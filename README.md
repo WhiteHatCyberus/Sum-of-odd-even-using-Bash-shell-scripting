@@ -6,4 +6,5 @@ Bash Shell Script for a program to calculate the sum of odd and even elements
 • As a computer science BTech student I went across the net to learn more about sh, but could'nt find a proper code for this program, so I made my own from scratch and as simple and minimal as possible, hope this helps you guys a lot for your education and practical lab purposes<br>
 • To facilitate better readability of code, I've added necessary comments in the code to simulate the flow of control in the code
 <br>
+# OUTPUT
 <img width="238" alt="Screenshot 2022-10-02 205701" src="https://user-images.githubusercontent.com/70995581/193463002-f008ed06-ca65-41f1-9b39-8c83c34bf140.png">
