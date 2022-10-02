@@ -2,8 +2,8 @@
 Bash Shell Script for a program to calculate the sum of odd and even elements
 <br>
 <img width="953" alt="Screenshot 2022-10-02 211519" src="https://user-images.githubusercontent.com/70995581/193462998-a596155a-435c-4d6c-be25-892aa6afdfd9.png">
-#Introduction
-As a computer science BTech student I went across the net to learn more about sh, but could'nt find a proper code for this program, so I made my own from scratch and as simple and minimal as possible, hpe this helps you guys a lot!!<br>
+# Introduction
+As a computer science BTech student I went across the net to learn more about sh, but could'nt find a proper code for this program, so I made my own from scratch and as simple and minimal as possible, hope this helps you guys a lot for your education and practical lab purposes<br>
 To facilitate better readability of code, I've added necessary comments in the code to simulate the flow of control in the code
 <br>
 <img width="238" alt="Screenshot 2022-10-02 205701" src="https://user-images.githubusercontent.com/70995581/193463002-f008ed06-ca65-41f1-9b39-8c83c34bf140.png">
