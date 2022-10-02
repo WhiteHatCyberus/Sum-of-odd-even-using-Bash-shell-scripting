@@ -1,4 +1,4 @@
-# Find the odd and even element from a array using Bash Shell Scripting
+# Find the sum of odd and even element from a array using Bash Shell Scripting
 Bash Shell Script for a program to calculate the sum of odd and even elements
 <br>
 
