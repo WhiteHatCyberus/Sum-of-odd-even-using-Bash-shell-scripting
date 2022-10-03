@@ -6,7 +6,6 @@ Bash Shell Script for a program to calculate the sum of odd and even elements
 • The speciality of this code, unlike other codes, you add the elements into the array after runtime. <br>
 • To facilitate better readability of code, I've added necessary comments in the code to simulate the flow of control in the code
 </br>
-<br>
 # The better - sumoe.sh
 <img width="299" alt="Screenshot 2022-10-02 205701" src="https://user-images.githubusercontent.com/70995581/193506026-2c15c5c2-e34f-42f4-a011-b61de8e42246.png">
 <br>
